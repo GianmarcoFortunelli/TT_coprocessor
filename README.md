@@ -4,6 +4,12 @@
 
 This repository contains a Tiny Tapeout user module implementing a **32-bit Arithmetic Logic Unit (ALU)** with an integrated multiplication operation.
 
+## Authors
+
+- **Gianmarco Fortunelli**
+- **Francesca Di Giuseppe**
+- **Mattia Cesaraccio**
+
 The design was adapted for the Tiny Tapeout flow starting from previously developed hardware blocks: the ALU structure comes from a larger 32-bit processor datapath, while the multiplication unit was integrated from a dedicated arithmetic design and then simplified to fit the Tiny Tapeout area and interface constraints.
 
 - [Project documentation](docs/info.md)

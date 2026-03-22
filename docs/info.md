@@ -1,3 +1,9 @@
+## Authors
+
+- **Gianmarco Fortunelli**
+- **Francesca Di Giuseppe**
+- **Mattia Cesaraccio**
+
 ## How it works
 
 This project implements a 32-bit Arithmetic Logic Unit (ALU) for Tiny Tapeout.
